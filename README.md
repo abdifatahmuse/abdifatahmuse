@@ -25,7 +25,7 @@
 [![Php Badge](https://img.shields.io/badge/-Php-2986C1?style=for-the-badge&labelColor=white&logo=php&logoColor=2986C1)](#)
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&labelColor=white&logo=laravel&logoColor=FF2D20)](#)
 [![Webpack Badge](https://img.shields.io/badge/-Webpack-5FC8F8?style=for-the-badge&labelColor=white&logo=webpack)](#)
-[![React Badge](https://img.shields.io/badge/-React-blue?style=for-the-badge&labelColor=white&logo=express&logoColor=blue)](#)
+[![React Badge](https://img.shields.io/badge/-React-blue?style=for-the-badge&labelColor=white&logo=react&logoColor=blue)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=white&logo=node.js&logoColor=3C873A)](#)
 [![Express Badge](https://img.shields.io/badge/-Express-black?style=for-the-badge&labelColor=white&logo=express&logoColor=black)](#)
 <!-- [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=white&logo=graphql&logoColor=e535ab)](#) -->
